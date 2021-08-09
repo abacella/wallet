@@ -29,7 +29,7 @@ $ pip install -r requirements.txt
 5b37c293e2322f68a0786b8ec4e6a020bbdc061a12a300b6fb3c787ca60c69f1
 ```
 
-## Confirm BTCTEST transmission 
+## Confirm BTCTEST transmission on https://tbtc.bitaps.com/
 ![image](https://github.com/abacella/wallet/blob/main/Screenshots/btc_block.png)
 
 
