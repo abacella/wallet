@@ -5,9 +5,10 @@ This project builds a wallet in python in which you are abe to derive ETH and BT
 Inital intallation:
 1) To begin you should have a python 3.7 enviroment on your computer.
 2) Clone this repository to you computer.
-3) Inside the wallet folder type the command below to install web3.py and bit to be able to interact with the ETH  and BTCTEST Blockchain
-4) We considered that you also installed the hd-wallet-derive library inside the wallet folder. If not see tutorial in the ned of this file.
+3) We considered that you also installed the hd-wallet-derive library inside the wallet folder. If not see tutorial in the end of this file.
+4) Inside the wallet folder type the command below to install web3.py and bit to be able to interact with the ETH  and BTCTEST Blockchain
 
+Tyoe the commnad below
 ```bash
 $ pip install -r requirements.txt
 ```
@@ -18,7 +19,8 @@ $ python
 ```
 
 In the wallet folder create a file called mne.env with the 15 words meneumonic phrase in it.
-Ex.
+
+Ex:
 mnemonic = "15 words"
 
 
@@ -47,12 +49,6 @@ Formula inputs:
 
 ## Account that will Receive BTCTEST
 ![image](https://github.com/abacella/wallet/blob/main/Screenshots/btc_address.png)
-
-Formula inputs:
-1. BTCTEST or ETH
-2. Account_ETH or Account_BTCTEST
-3. Sender Address as string
-4. Amount
 
 ## Send BTCTEST Formula Example
 
