@@ -125,21 +125,11 @@ For those using **macOS**, execute the following steps:
 
 
 
-## Step 2 - Installing hd-wallet-derive 
+## Installing hd-wallet-derive 
 
 With the latest version of PHP installed on our machines, we can now proceed to the installation of the `hd-wallet-derive` library.
 
-<details><summary>Installation</summary>
-
-1. Begin by opening a fresh terminal. Windows users **must** open their terminal as administator as follows:
-
-    * Input `C:\Program Files\Git\bin\bash.exe` directly into the system search bar and launch the program as _Administrator_ from the resulting menu. 
-    
-    * **This step is required or the installation will fail!**
-
-    * <img alt=bash-exe.png src=Images/bash-exe.png height=500>
-
-2. With your terminal open as indicated for your operating system, cd into your `Blockchain-Tools folder and run the following code:
+1. With your terminal open as indicated for your operating system, cd into your `Blockchain-Tools folder and run the following code:
 
     ```shell
       git clone https://github.com/dan-da/hd-wallet-derive
