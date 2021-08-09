@@ -7,8 +7,6 @@ Inital intallation:
 2) Clone this repository to you computer.
 3) We considered that you also installed the hd-wallet-derive library inside the wallet folder. If not see tutorial in the end of this file.
 4) Inside the wallet folder type the command below to install web3.py and bit to be able to interact with the ETH  and BTCTEST Blockchain
-
-Tyoe the commnad below
 ```bash
 $ pip install -r requirements.txt
 ```
@@ -24,8 +22,8 @@ Ex:
 mnemonic = "15 words"
 
 
-import wallet with the command line below. With it you will be able to execute the formulas to trasnfer funds and derive accounts.
-In this commnd line we already derive 3 ETH adn 3 BTCTEST Account from the menumonic phrase and print it in the screen.
+import wallet with the command line below. You will be able to execute the formulas to trasnfer funds and derive accounts.
+In this command line we already derived 3 ETH adn 3 BTCTEST Account from the menumonic phrase and print it in the screen.
 ```bash
 >>> from wallet import *
 ```
