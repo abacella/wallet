@@ -77,7 +77,7 @@ def send_tx(coin, account, recipient, amount):
 w3 = Web3(Web3.HTTPProvider("http://127.0.0.1:8545"))
 
 
-# #Examples cr:
+# Command lines decribed in README.md file
 # Account_ETH = priv_key_to_account(ETH, (coins[ETH][0]['privkey']))
 # Account_BTCTEST = priv_key_to_account(BTCTEST, (coins[BTCTEST][0]['privkey']))
 
