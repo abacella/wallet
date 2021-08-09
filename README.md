@@ -51,9 +51,9 @@ Tutorial from https://columbia.bootcampcontent.com/columbia-bootcamp/cu-nyc-virt
 
 Initiallly create a folder called wallet
 
-    ```bash
-      mkdir wallet
-    ```
+```bash
+  mkdir wallet
+```
 
 With the latest version of PHP installed on our machines install the `hd-wallet-derive` library.
 
