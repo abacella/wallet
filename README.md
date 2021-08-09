@@ -57,15 +57,15 @@ Initiallly create a folder called wallet
 
 With the latest version of PHP installed on our machines install the `hd-wallet-derive` library.
 
-1. With your terminal open as indicated for your operating system, cd into your `wallet folder and run the following code:
+1. With your terminal open as indicated for your operating system, cd into your wallet folder and run the following code:
 
-    ```shell
-      git clone https://github.com/dan-da/hd-wallet-derive
-      cd hd-wallet-derive
-      curl https://getcomposer.org/installer -o installer.php
-      php installer.php
-      php composer.phar install
-    ```
+```bash
+    git clone https://github.com/dan-da/hd-wallet-derive
+    cd hd-wallet-derive
+    curl https://getcomposer.org/installer -o installer.php
+    php installer.php
+    php composer.phar install
+```
 
 3. You should now have a folder called `hd-wallet-derive` containing the PHP library!
 
