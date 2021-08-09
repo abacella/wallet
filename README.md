@@ -4,8 +4,7 @@
 
 
 ```bash
-./geth --datadir node1 account new
-./geth --datadir node2 account new
+$ pip install -r requirements.txt
 ```
 
 
