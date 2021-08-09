@@ -51,7 +51,7 @@ Tutorial from https://columbia.bootcampcontent.com/columbia-bootcamp/cu-nyc-virt
 
 Initiallly create a folder called wallet
 
-    ```shell
+    ```bash
       mkdir wallet
     ```
 
